@@ -15,7 +15,7 @@ $ cd ~/eclipse-workspace/
 ```
 $ git clone https://github.com/Binzakens/STM32F407VG_TemperatureAffectFan_Eclipse_20203318.git
 ```
-3. Follow above instructions will leead you clone the url above into your Eclipse's default workspace directory. Check whether the directory was there or not. The directory should've named 'STM32F407VG_TemperatureAffectFan_Eclipse_20203318'
+3. Follow above instructions will lead you clone the url above into your Eclipse's default workspace directory. Check whether the directory was there or not. The directory should've named 'STM32F407VG_TemperatureAffectFan_Eclipse_20203318'
 4. Open Eclipse IDE
 5. File -> Import -> General -> Choose 'Existing Projects into Workspace' -> Browse the file in /home/*user_name/eclipse-workspace/STM32F407VG_TemperatureAffectFan_Eclipse_20203318
 6. Choose 'Select All' and 'Search for nested projects' option. Click Finish!
